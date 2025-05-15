@@ -8,7 +8,7 @@ namespace TP_LR3
         }
 
         //Функция для настройки формы при загрузке
-        public void Initialization()
+        public static void Initialization()
         {
 
         }
