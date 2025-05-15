@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-LR3", "ТП-ЛР3\TP-LR3.csproj", "{9EEFEC73-02F9-43CC-8416-FF047F0516BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_LR3", "ТП-ЛР3\TP_LR3.csproj", "{9EEFEC73-02F9-43CC-8416-FF047F0516BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB291FE-613C-4470-9E40-4B3A65953BC8}
 	EndGlobalSection
 EndGlobal
